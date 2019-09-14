@@ -1,1 +1,5 @@
-# quotations-of-master-c
+## C 大爷语录合集
+
+如果您还不了解最近在 OI 圈里臭名昭著的 C 大爷，推荐您移步 [知乎](https://www.zhihu.com/question/340968632)。
+
+这个仓库专门用来存放这位 C 大爷的各类睿智言论，欢迎各位贡献素材。
